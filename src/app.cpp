@@ -1,6 +1,5 @@
 #pragma once
 
-#include <windows.h>
 #include "settings.cpp"
 #include "shortcut.cpp"
 #include "taskbar.cpp"
